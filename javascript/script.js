@@ -12,3 +12,6 @@ console.log(userName);
 
 let userSurname = prompt("What's your surname?");
 console.log(userSurname);
+
+let userFavouriteColor = prompt("What's your favourite color?")
+console.log(userFavouriteColor);
