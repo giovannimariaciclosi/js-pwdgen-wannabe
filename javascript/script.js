@@ -10,3 +10,5 @@ Infine scrivi sulla pagina la concatenazione delle variabili + un numero a caso 
 let userName = prompt("What's your name?");
 console.log(userName);
 
+let userSurname = prompt("What's your surname?");
+console.log(userSurname);
