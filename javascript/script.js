@@ -17,3 +17,5 @@ let userFavouriteColor = prompt("What's your favourite color?")
 console.log(userFavouriteColor);
 
 const randomNumber = 33;
+
+document.writeln(userName + userSurname + userFavouriteColor + randomNumber);
